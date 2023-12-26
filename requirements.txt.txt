@@ -1,0 +1,7 @@
+numpy
+sounddevice
+time
+random
+json
+matplotlib
+os
